@@ -1,2 +1,2 @@
-hello world ,welcome to git!
-modefy for dev AND try to conflict
+hello world ,welcome to git
+modefy for dev & try to conflict!
